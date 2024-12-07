@@ -13,13 +13,13 @@
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/Hanfik27/sim-au.git
+   git clone https://github.com/Hanfik27/simau.git
    ```
 
 2. Masuk ke direktori proyek:
 
    ```bash
-   cd sim-au
+   cd simau
    ```
 
 3. Install dependensi:
