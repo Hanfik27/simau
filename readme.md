@@ -1,7 +1,5 @@
 # Sistem Informasi Manajemen Akademik Universitas
 
-## Fitur Utama ✨
-# KAPAN KAPAN AJALAH
 
 ## Teknologi yang Digunakan 🛠️
 
@@ -52,8 +50,18 @@
   Tambahkan Dosen/Mahasiswa supaya bisa register, dikarenakan register detect email yang sudah ada di database
 
 - **Kelola Data**
-
-    # BANYAK JIR
+- Absensi
+- Dosen
+- Fakultas
+- Gedung
+- Jadwal
+- Jurusan
+- Kelas
+- Lab
+- Mahasiswa
+- Mata Kuliah
+- Nilai
+- User
 
 - **Buat Akun Dosen/Mahasiswa**
 
