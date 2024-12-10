@@ -50,18 +50,18 @@
   Tambahkan Dosen/Mahasiswa supaya bisa register, dikarenakan register detect email yang sudah ada di database
 
 - **Kelola Data**
-- Absensi
-- Dosen
-- Fakultas
-- Gedung
-- Jadwal
-- Jurusan
-- Kelas
-- Lab
-- Mahasiswa
-- Mata Kuliah
-- Nilai
-- User
+   - Absensi
+   - Dosen
+   - Fakultas
+   - Gedung   
+   - Jadwal
+   - Jurusan
+   - Kelas
+   - Lab
+   - Mahasiswa
+   - Mata Kuliah
+   - Nilai
+   - User
 
 - **Buat Akun Dosen/Mahasiswa**
 
